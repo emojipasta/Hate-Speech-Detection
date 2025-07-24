@@ -39,8 +39,9 @@ Social media platforms like Twitter are often plagued by hate speech and offensi
 
 ---
 
-📁 Project Structure
+### 📁 Project Structure
 
+```
 Hate-Speech-Detection/
 ├── data/
 │   ├── hate_speech.csv              # Original raw dataset
@@ -63,6 +64,7 @@ Hate-Speech-Detection/
 │
 ├── README.md                        # Project documentation
 └── requirements.txt                 # Environment dependencies
+```
 
 
 ---
