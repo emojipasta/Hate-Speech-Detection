@@ -103,6 +103,10 @@ Actual  0 |  43  212   31
         2 |   1   95  737
 ```
 
+### Confusion Matrix (Random Forest)
+![Confusion Matrix](images/confusion_matrix_rf.png)
+
+
 ## 💡 Conclusion
 
 This project demonstrates an end-to-end pipeline for detecting hate speech using text classification. With robust accuracy and clear visualizations, the model can assist in automated moderation of harmful online content, particularly for platforms like Twitter.
