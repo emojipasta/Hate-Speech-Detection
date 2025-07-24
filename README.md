@@ -1,4 +1,4 @@
-# 🛡️ Hate Speech Detection using Machine Learning
+# 🛡️ Hate Speech Detection on Social Media using NLP + Machine Learning
 
 This project detects **Hate Speech**, **Offensive Language**, and **Neutral content** in tweets using Natural Language Processing and Machine Learning. It is built as a **Capstone Project** during a Data Science internship, with a focus on model interpretability, reproducibility, and presentation-ready insights.
 
