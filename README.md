@@ -88,8 +88,8 @@ Hate-Speech-Detection/
 3. Best Performing Model: Random Forest Classifier
 
 Confusion Matrix: 
-```
 
+```
                Predicted
               0    1    2
            ----------------
