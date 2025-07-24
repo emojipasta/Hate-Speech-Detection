@@ -65,7 +65,8 @@ Hate-Speech-Detection/
 │   └── plots/                       # Model performance visualizations
 │
 ├── scripts/
-│   └── hate_speech_pipeline.py     # Complete pipeline script
+│   |── hate_speech_pipeline.py     # Complete pipeline script
+|   └── model_predictor.py          # Model Predictor script
 │
 ├── README.md                        # Project documentation
 └── requirements.txt                 # Environment dependencies
