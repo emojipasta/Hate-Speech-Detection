@@ -1,3 +1,8 @@
+![Python](https://img.shields.io/badge/Python-3.10-blue)
+![Status](https://img.shields.io/badge/Project-Complete-brightgreen)
+![License](https://img.shields.io/badge/license-MIT-green)
+
+
 # 🛡️ Hate Speech Detection on Social Media using NLP + Machine Learning
 
 This project detects **Hate Speech**, **Offensive Language**, and **Neutral content** in tweets using Natural Language Processing and Machine Learning. It is built as a **Capstone Project** during a Data Science internship, with a focus on model interpretability, reproducibility, and presentation-ready insights.
