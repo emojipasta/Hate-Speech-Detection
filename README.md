@@ -39,31 +39,31 @@ Social media platforms like Twitter are often plagued by hate speech and offensi
 
 ---
 
-## 📁 Project Structure
+📁 Project Structure
 
 Hate-Speech-Detection/
-│
 ├── data/
-│   ├── hate_speech.csv                    # Original raw dataset
-│   ├── cleaned_data.csv                   # Cleaned version of dataset
-│   ├── tfidf_vectorizer.pkl               # Saved TF-IDF vectorizer
-│   └── best_model_rf.pkl                  # Trained Random Forest model
+│   ├── hate_speech.csv              # Original raw dataset
+│   ├── cleaned_data.csv             # Cleaned version of dataset
+│   ├── tfidf_vectorizer.pkl         # Saved TF-IDF vectorizer
+│   └── best_model_rf.pkl            # Trained Random Forest model
 │
 ├── notebook/
-│   ├── 01_EDA.ipynb                       # Exploratory Data Analysis
-│   ├── 02_Text_Preprocessing.ipynb        # Cleaning and preparing text
-│   ├── 03_Vectorization.ipynb             # TF-IDF vectorization
-│   ├── 04_Model_Training.ipynb            # Model training and testing
-│   ├── 05_Evaluation_Visualization.ipynb  # Performance & visualization
+│   ├── 01_EDA.ipynb                 # Exploratory Data Analysis
+│   ├── 02_Text_Preprocessing.ipynb  # Cleaning and preparing text
+│   ├── 03_Vectorization.ipynb       # TF-IDF vectorization
+│   ├── 04_Model_Training.ipynb      # Model training and testing
+│   └── 05_Evaluation_Visualization.ipynb  # Performance & visualization
 │
 ├── images/
-│   └── plots/                             # Model performance visualizations
+│   └── plots/                       # Model performance visualizations
 │
 ├── scripts/
-│   └── hate_speech_pipeline.py            # Complete pipeline script
+│   └── hate_speech_pipeline.py     # Complete pipeline script
 │
-├── README.md                              # Project documentation
-└── requirements.txt                       # Environment dependencies
+├── README.md                        # Project documentation
+└── requirements.txt                 # Environment dependencies
+
 
 ---
 
