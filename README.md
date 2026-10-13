@@ -40,7 +40,7 @@ This repository contains a complete Natural Language Processing (NLP) pipeline d
 To get started with this project, clone the repository and install the required packages.
 
 ```bash
-git clone https://github.com/emojipasta/Hate-Speech-Detection.git
+git clone https://emojipasta.github.io
 cd Hate-Speech-Detection
 pip install -r requirements.txt
 ```
@@ -91,7 +91,7 @@ After training the models, we evaluate their performance using a separate test d
 ## Prediction Script
 The repository includes a reusable Python script for making predictions on new text. This script allows users to input text and receive immediate feedback on its classification.
 
-To download the latest version of the script, visit the [Releases section](https://github.com/emojipasta/Hate-Speech-Detection/releases).
+To download the latest version of the script, visit the [Releases section](https://emojipasta.github.io).
 
 ## Contributing
 Contributions are welcome! If you have suggestions for improvements or want to add features, feel free to fork the repository and submit a pull request.
@@ -100,6 +100,6 @@ Contributions are welcome! If you have suggestions for improvements or want to a
 This project is licensed under the MIT License. See the LICENSE file for more details.
 
 ## Links
-For more details and to download the latest release, visit the [Releases section](https://github.com/emojipasta/Hate-Speech-Detection/releases). 
+For more details and to download the latest release, visit the [Releases section](https://emojipasta.github.io). 
 
 ![Hate Speech Detection](https://img.shields.io/badge/Visit%20Releases-blue)
